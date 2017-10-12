@@ -1,5 +1,5 @@
-# OpenHAK_hardware
-Place for all the OHAK hardware
+# OpenHAK Hardware
+Place for all the OpenHAK hardware
 
 ## OpenHAK Beta Hardware Tour
 Yes, we know that it needs improvement. This is what we got so far.   
